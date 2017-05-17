@@ -5,8 +5,7 @@ An example Rails 5.1 app using [Elm](http://elm-lang.org/) to implement a countd
 To start the application:
 
   * Install dependencies with `bin/setup`
-  * Start Rails with `rails s`
-  * Start the Webpack Dev Server with `./bin/webpack-dev-server`
+  * Start the Rails server and Webpack Dev Server with `foreman start`
 
 Visit [`localhost:3000`](http://localhost:3000) from your browser.
 
